@@ -1,0 +1,11 @@
+# Ignore macOS files
+.DS_Store
+._.DS_Store
+._*
+
+# Ignore Vagrant temporary files
+.vagrant
+
+# Ignore data folder
+data/
+
